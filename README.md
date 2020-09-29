@@ -2,7 +2,7 @@
 
 This Bootcamp took place at _Skylab Coders Academy_ (Barcelona) from the 6th of July to the 25th of September of 2020.
 
-My mid-Bootcamp Project was **Fenizia**, a book e-commerce website made in 3 days between Simón Fernández, Esther Morillo and myself, Dani Alcalà, with the following technologies and methodologies:
+My mid-Bootcamp's Project was **Fenizia**, a book e-commerce website made in 3 days between Simón Fernández, Esther Morillo and myself, Dani Alcalà, with the following technologies and methodologies:
 
 - JavaScript
 - React
@@ -17,8 +17,6 @@ Presentation: https://www.linkedin.com/feed/update/urn:li:activity:6699024146778
 ## Scrum's User Stories
 
 DESCRIPTION 1 As a customer I want an App so that I can buy all sorts of local products online
-
-SCENARIOS
 
 DESCRIPTION 2 As a customer I want a list so that I can search all kind of products
 
